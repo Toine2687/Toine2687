@@ -1,5 +1,19 @@
-### Hi there 👋
+### Hey, I'm Antoine 👋
+## Front-end Developper & Pro Photographer
 
+*Available to work right now !*
+
+- Sass & Tailwind ❤️
+- Vanilla JS & React
+- GSAP
+- Still learning everyday, hard trying
+
+French fluent & pretty good english
+
+📷 Photographer  @ [antoinepetit.com](https://antoinepetit.com)
+💻 Developper  @ [antipetoine.dev](https://antipetoine.dev)
+
+Connect via [linkedIn](https://www.linkedin.com/in/antoine-petit-197914178/)
 <!--
 **Toine2687/Toine2687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
